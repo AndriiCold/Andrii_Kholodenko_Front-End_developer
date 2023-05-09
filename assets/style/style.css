@@ -235,6 +235,11 @@ a:active { text-decoration: none; }
     background-color: #157AFF;
 }
 
+.experiences__column{
+    width: 700px;
+    align-items: center;
+}
+
 .experiences__content-row {
     margin-top: 10px;
     width: 100%;
@@ -301,6 +306,10 @@ a:active { text-decoration: none; }
     width: 200px;
     height: 3px;
     background-color: #157AFF;
+}
+
+.education__content-column {
+    width: 100%;
 }
 
 .education__content-row {
