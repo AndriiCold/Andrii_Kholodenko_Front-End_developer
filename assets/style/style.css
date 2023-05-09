@@ -256,6 +256,7 @@ a:active { text-decoration: none; }
 .experiences__date {
     font-size: 18px;
     color: #000;
+    width: 100px;
 }
 
 .experiences__subtitle {
@@ -287,6 +288,7 @@ a:active { text-decoration: none; }
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
 }
 
 .education__title {
@@ -306,6 +308,7 @@ a:active { text-decoration: none; }
     margin-top: 15px;
     margin-left: 25px;
     align-items: center;
+    width: 100%;
 }
 
 .education__icon {
